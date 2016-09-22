@@ -1,0 +1,2 @@
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from validate_secret_key_config! at /Users/Sergio1/.rvm/gems/ruby-2.2.1/gems/railties-4.2.1/lib/rails/application.rb:530)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from validate_secret_key_config! at /Users/Sergio1/.rvm/gems/ruby-2.2.1/gems/railties-4.2.1/lib/rails/application.rb:530)
